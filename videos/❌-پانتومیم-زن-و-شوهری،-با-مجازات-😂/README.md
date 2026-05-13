@@ -1,13 +1,12 @@
 # ❌-پانتومیم-زن-و-شوهری،-با-مجازات-😂
 
-> 🆓 **نسخه رایگان** - کیفیت 360p
-> برای کیفیت بالاتر، MP3، زیرنویس و رمزگذاری به [workflow شماره 01](../../actions) بروید
-
 <div align="center">
   <picture>
     <img src="thumbnail.jpg" width="250" />
   </picture>
 </div>
+
+<br>
 
 ---
 
@@ -18,13 +17,15 @@
 | **Video Name** | `❌-پانتومیم-زن-و-شوهری،-با-مجازات-😂` |
 | **Original Link** | [YouTube Video](https://m.youtube.com/watch?v=rpjsDz3auzU&t=14s&pp=ygVA4p2MLdm-2KfZhtiq2YjZhduM2YUt2LLZhi3ZiC3YtNmI2YfYsduM2Iwt2KjYpy3Zhdis2KfYstin2Kot8J-Ygg%3D%3D) |
 | **Total Size** | **2 parts** - **62.82 MB** |
-| **Quality** | **360p (Free)** |
+| **Quality** | **best** |
+| **Status** | **Complete (100%)** |
+| **Password Protected** | **NO** |
 
 ---
 
 ## Download Links
 
-> ⬇️ Download **all parts**, then open `❌-پانتومیم-زن-و-شوهری،-با-مجازات-😂.zip`
+> ⬇️ Download **all parts**, then open `❌-پانتومیم-زن-و-شوهری،-با-مجازات-😂.zip` — the other parts are found automatically.
 
 | # | File | Link |
 |---|------|------|
@@ -33,4 +34,17 @@
 
 ---
 
-*🆓 Free Version - [avasam.ir](https://avasam.ir)*
+## How to Extract
+
+Download all parts into the **same folder**, then:
+
+| OS | Steps |
+|----|-------|
+| **Windows** | Double-click `❌-پانتومیم-زن-و-شوهری،-با-مجازات-😂.zip` — opens in Explorer, WinRAR, or 7-Zip automatically |
+| **Mac** | Double-click `❌-پانتومیم-زن-و-شوهری،-با-مجازات-😂.zip` — extracts with Archive Utility or The Unarchiver |
+| **Linux** | `unzip ❌-پانتومیم-زن-و-شوهری،-با-مجازات-😂.zip` or right-click → Extract Here (Ark/File Manager) |
+| **Android** | Tap `❌-پانتومیم-زن-و-شوهری،-با-مجازات-😂.zip` in your file manager — or use [ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver) |
+
+---
+
+*This tool created by [avasam.ir](https://avasam.ir)*

@@ -1,13 +1,12 @@
 # مال-تو-چه-شکلیه؟😂-چالش-سمی-با-مجازات
 
-> 🆓 **نسخه رایگان** - کیفیت 360p
-> برای کیفیت بالاتر، MP3، زیرنویس و رمزگذاری به [workflow شماره 01](../../actions) بروید
-
 <div align="center">
   <picture>
     <img src="thumbnail.jpg" width="250" />
   </picture>
 </div>
+
+<br>
 
 ---
 
@@ -18,13 +17,15 @@
 | **Video Name** | `مال-تو-چه-شکلیه؟😂-چالش-سمی-با-مجازات` |
 | **Original Link** | [YouTube Video](https://m.youtube.com/watch?v=zQIoFg8Gi5A&pp=ygVD2YXYp9mELdiq2Ygt2obZhy3YtNqp2YTbjNmH2J_wn5iCLdqG2KfZhNi0Ldiz2YXbjC3YqNinLdmF2KzYp9iy2KfYqg%3D%3D) |
 | **Total Size** | **3 parts** - **105.99 MB** |
-| **Quality** | **360p (Free)** |
+| **Quality** | **best** |
+| **Status** | **Complete (100%)** |
+| **Password Protected** | **NO** |
 
 ---
 
 ## Download Links
 
-> ⬇️ Download **all parts**, then open `مال-تو-چه-شکلیه؟😂-چالش-سمی-با-مجازات.zip`
+> ⬇️ Download **all parts**, then open `مال-تو-چه-شکلیه؟😂-چالش-سمی-با-مجازات.zip` — the other parts are found automatically.
 
 | # | File | Link |
 |---|------|------|
@@ -34,4 +35,17 @@
 
 ---
 
-*🆓 Free Version - [avasam.ir](https://avasam.ir)*
+## How to Extract
+
+Download all parts into the **same folder**, then:
+
+| OS | Steps |
+|----|-------|
+| **Windows** | Double-click `مال-تو-چه-شکلیه؟😂-چالش-سمی-با-مجازات.zip` — opens in Explorer, WinRAR, or 7-Zip automatically |
+| **Mac** | Double-click `مال-تو-چه-شکلیه؟😂-چالش-سمی-با-مجازات.zip` — extracts with Archive Utility or The Unarchiver |
+| **Linux** | `unzip مال-تو-چه-شکلیه؟😂-چالش-سمی-با-مجازات.zip` or right-click → Extract Here (Ark/File Manager) |
+| **Android** | Tap `مال-تو-چه-شکلیه؟😂-چالش-سمی-با-مجازات.zip` in your file manager — or use [ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver) |
+
+---
+
+*This tool created by [avasam.ir](https://avasam.ir)*
